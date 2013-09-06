@@ -1,4 +1,4 @@
-Stand-to-Make
+Stand to Make
 =============
 
-A port of Stand to Make to Calca. 
+A port of [Stand to Make](http://standtomake.com) to [Calca](http://calca.io).
